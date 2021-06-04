@@ -1,0 +1,15 @@
+C:\Users\Chamara\source\repos\ABC Stores\ABC Stores\bin\Debug\ABC Stores.exe.config
+C:\Users\Chamara\source\repos\ABC Stores\ABC Stores\bin\Debug\ABC Stores.exe
+C:\Users\Chamara\source\repos\ABC Stores\ABC Stores\bin\Debug\ABC Stores.pdb
+C:\Users\Chamara\source\repos\ABC Stores\ABC Stores\bin\Debug\ABC Stores.xml
+C:\Users\Chamara\source\repos\ABC Stores\ABC Stores\bin\Debug\Guna.UI2.dll
+C:\Users\Chamara\source\repos\ABC Stores\ABC Stores\obj\Debug\ABC Stores.vbprojAssemblyReference.cache
+C:\Users\Chamara\source\repos\ABC Stores\ABC Stores\obj\Debug\ABC_Stores.Form1.resources
+C:\Users\Chamara\source\repos\ABC Stores\ABC Stores\obj\Debug\ABC_Stores.Resources.resources
+C:\Users\Chamara\source\repos\ABC Stores\ABC Stores\obj\Debug\ABC Stores.vbproj.GenerateResource.cache
+C:\Users\Chamara\source\repos\ABC Stores\ABC Stores\obj\Debug\ABC Stores.vbproj.CoreCompileInputs.cache
+C:\Users\Chamara\source\repos\ABC Stores\ABC Stores\obj\Debug\ABC Stores.vbproj.CopyComplete
+C:\Users\Chamara\source\repos\ABC Stores\ABC Stores\obj\Debug\ABC Stores.exe
+C:\Users\Chamara\source\repos\ABC Stores\ABC Stores\obj\Debug\ABC Stores.xml
+C:\Users\Chamara\source\repos\ABC Stores\ABC Stores\obj\Debug\ABC Stores.pdb
+C:\Users\Chamara\source\repos\ABC Stores\ABC Stores\obj\Debug\ABC_Stores.Products.resources
